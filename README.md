@@ -17,7 +17,7 @@ This package contains 3 folders:
 A brief instruction for the 'Example' data:
 step 1. run the main function named 'iRSSN.m' in the package folder；
 step 2. in the prompted window,  you should select the normalized gray matter files generated 
-by VBM (CAT 12 software) in the step; for the 'Example'  data, you should the files in
+by VBM (CAT 12 software) in the step; for the 'Example'  data, you should select the files in
  'images' folder;
 step 3. in the newly prompted window, you should choose the atlas file in the standard space, 
 for the 'Example' data, you should choose the file in 'atlas' folder; 
